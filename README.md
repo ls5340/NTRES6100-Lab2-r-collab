@@ -17,3 +17,4 @@ This repo is for our collaborative project
         <hr class="class-6" />
         
 Dongcheng and Lei are writing here
+        <hr size="10">
