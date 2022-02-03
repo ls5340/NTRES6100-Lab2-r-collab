@@ -2,6 +2,6 @@
 
 This repo is for our collaborative project
 
-<hr size=1>
+<hr size=100>
 
 Dongcheng and Lei are writing here
